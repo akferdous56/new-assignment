@@ -1,0 +1,225 @@
+.fira-sans-thin {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  .header{
+    font-size: 24px;
+    font-weight:600;
+    
+    color: rgba(14, 14, 14, 0.5);
+  }
+  .header-title{
+    width: 622px;
+    height: 201px;
+    font-size: 56px;
+    font-weight: bold;
+    margin-top: 16px;
+    margin-bottom: 24px;
+    color: rgba(14, 14, 14, 1);
+  }
+  .process{
+    width: 270px;
+    height: 56px;
+    font-size: 18px;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 1);
+    border-radius: 5px;
+    
+    background-color: rgba(0, 106, 80, 1)    
+    
+    
+  }
+ 
+  
+  .image{
+    width: 474.03Px;
+    height: 400px;
+  }  
+
+  
+ .hero{
+    display: flex;
+ }
+ .felex{
+    width: 1200px;
+    height: 520px;
+    background-color: rgba(198, 228, 214, 1);
+    margin: 0px auto;
+    margin-top: 60px;
+    border-radius: 24px;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+ }
+ .about-icon{
+    display: flex;
+    width: 320px;
+    height:220px ;
+    gap: 50px;
+    
+    
+    
+    
+ }
+ .about-icons{
+
+    padding: 20px;
+    box-shadow: 1px 1px 1px 2px rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    
+
+ }
+ .head{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 1);
+    
+    padding: 25px;
+
+    
+ }
+  .icon-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
+    
+  }
+  .icon-discripsion{
+    width: 225px;
+    height: 72px;
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.8);
+    opacity: 70%;
+   
+    
+  }
+.discus{
+    margin: 24px 480px;
+    
+    
+}
+.Future{
+    font-size:40px ;
+    font-weight: bold;
+    margin-top: 50px;
+   
+}
+  .bangla{
+    font-size:16px;
+    font-weight: 400px;
+    color: rgba(14, 14, 14, 0.7);
+    opacity: 80%;
+    margin-top: 25px;
+
+  }
+  .box{
+    display: flex;
+    gap: 25px;
+    margin-top: 25px;
+    
+    
+  }
+  .box-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
+    
+  }
+  .box-discribtion{
+    font-size: 16px;
+    font-weight: 400px;
+    color: rgba(14, 14, 14, 0.8);
+    opacity: 70%;
+    width: 346px;
+    height: 48px;
+  }
+  .btn{
+    width: 122px;
+    height: 40px;
+    background-color: rgba(84, 144, 245, 1);
+    font-size: 16px;
+    font-weight: 400px;
+    color: rgba(255, 255, 255, 1);
+    border-radius: 8px;
+    border: none;
+  }
+  .btn-p{
+    width: 122px;
+    height: 40px;
+    background-color:rgba(9, 161, 92, 1) ;
+    font-size: 16px;
+    font-weight: 400px;
+    color: rgba(255, 255, 255, 1);
+    border-radius: 8px;
+    border: none;
+  }
+  .btn-f{
+    width: 122px;
+    height: 40px;
+    background-color:rgba(255, 194, 57, 1) ;
+    font-size: 16px;
+    font-weight: 400px;
+    color: rgba(255, 255, 255, 1);
+    border-radius: 8px;
+    border: none;
+  }
+  .shadow{
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+
+  }
+  .shadow-1{
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 16px;
+  }
+  .shadow-2{
+    background-color: rgba(247, 235, 207, 1);
+    border-radius: 16px;
+  }
+  .about-box{
+    padding: 25px;
+    box-shadow: 1px 1px 1px 2px rgba(84, 144, 245, 0.2);
+     
+    
+  }
+  .discribtion{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.8);
+    opacity: 70%;
+   
+    
+  }
+  .title{
+    font-size: 20px;
+    font-weight: 700;
+    color: rgba(14, 14, 14, 0.8);
+    
+  }
+  .sub-title{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.8);
+    opacity: 70%;
+    
+    
+  }
+  .ipsum{
+    margin-top: 40px;
+    
+    width: 1230px;
+    height: 150px;
+    padding: 50px;
+    box-shadow: 1px 1px 1px 2px rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+    border: none;
+    background-image: url(../assets/quote-bg.png);
+    background-position: 0px 30px;
+    background-repeat:no-repeat
+    
+    
+
+    
+  }
